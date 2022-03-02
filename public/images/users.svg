@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 20 20">
+  <g clip-path="url(#clip0_10905_601)">
+    <path stroke="url(#paint0_linear_10905_601)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.167 17.5v-1.667a3.333 3.333 0 00-3.333-3.333H4.167a3.333 3.333 0 00-3.334 3.333V17.5"/>
+    <path stroke="url(#paint1_linear_10905_601)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7.5 9.167a3.333 3.333 0 100-6.667 3.333 3.333 0 000 6.667z"/>
+    <path stroke="url(#paint2_linear_10905_601)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.167 17.5v-1.667a3.333 3.333 0 00-2.5-3.225"/>
+    <path stroke="url(#paint3_linear_10905_601)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.334 2.608a3.334 3.334 0 010 6.459"/>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_10905_601" x1="16.792" x2="15.289" y1="4.936" y2="18.948" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5498FF"/>
+      <stop offset=".516" stop-color="#428EFF"/>
+      <stop offset="1" stop-color="#297FFF"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_10905_601" x1="12.146" x2="7.15" y1="-7.585" y2="9.882" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5498FF"/>
+      <stop offset=".516" stop-color="#428EFF"/>
+      <stop offset="1" stop-color="#297FFF"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear_10905_601" x1="19.659" x2="13.75" y1="5.208" y2="15.767" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5498FF"/>
+      <stop offset=".516" stop-color="#428EFF"/>
+      <stop offset="1" stop-color="#297FFF"/>
+    </linearGradient>
+    <linearGradient id="paint3_linear_10905_601" x1="16.334" x2="7.591" y1="-7.162" y2="4.701" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5498FF"/>
+      <stop offset=".516" stop-color="#428EFF"/>
+      <stop offset="1" stop-color="#297FFF"/>
+    </linearGradient>
+    <clipPath id="clip0_10905_601">
+      <path fill="#fff" d="M0 0h20v20H0z"/>
+    </clipPath>
+  </defs>
+</svg>

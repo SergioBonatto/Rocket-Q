@@ -1,0 +1,22 @@
+{
+  "name": "rocket-q",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para gerenciar perguntas anonimas de usuarios direcionadas ao dono da pagina. Projeto desenvolvido na NLW6 Rocketseat na missão Discover",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon main",
+    "init-db": "node src/db/init.js"
+  },
+  "keywords": [],
+  "author": "Sergio Bonatto",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "sqlite": "^4.0.23",
+    "sqlite3": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
