@@ -4,8 +4,8 @@
   "description": "Projeto desenvolvido para gerenciar perguntas anonimas de usuarios direcionadas ao dono da pagina. Projeto desenvolvido na NLW6 Rocketseat na missão Discover",
   "main": "src/server.js",
   "scripts": {
-    "start": "node main",
-    "init-db": "node src/db/init.js"
+    "init-db": "node main",
+    "start": "node src/views/init.ejs"
   },
   "keywords": [],
   "author": "Sergio Bonatto",
