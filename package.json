@@ -4,7 +4,7 @@
   "description": "Projeto desenvolvido para gerenciar perguntas anonimas de usuarios direcionadas ao dono da pagina. Projeto desenvolvido na NLW6 Rocketseat na missão Discover",
   "main": "src/server.js",
   "scripts": {
-    "start": "node main",
+    "start": "node .",
     "init-db": "node src/db/init.js"
   },
   "keywords": [],
